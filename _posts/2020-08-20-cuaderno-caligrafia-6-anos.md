@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Cuaderno de caligafía para 6 años
-description: This is a collection of short CSS snippets I thought might be useful for beginners
-summary: This is a collection of short CSS snippets I thought might be useful for beginners.
+description: Cuaderno de caligafía para 6 años
+summary: Cuaderno de caligafía para 6 años
+tags: [6 años, caligrafia]
 ---
 
 # Cuaderno de caligafía para 6 años
