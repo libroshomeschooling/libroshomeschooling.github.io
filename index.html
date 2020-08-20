@@ -7,10 +7,8 @@ layout: default
 <h1>Descarga libros y cuadernos para Home Schooling</h1>
 <p>Aquí podrás encontrar cuadernos de trabajo y libros sin derechos de autor para poder educar a tus hijos fuera del sistema educativo.</p>
 <p>¡Viva la libertad!</p>
-  <br> <br>
-  <hr>
-  <br> <br>
-<p>Siéntete libre de enviarnos tus libros a librosynubes@gmail.com</p>
+ <p>Siéntete libre de enviarnos tus libros a librosynubes@gmail.com</p>
+<br><br><hr><br><br>
 <ul>
 {% for post in site.posts %}
 <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time></li>
