@@ -1,13 +1,14 @@
 ---
 layout: default
 ---
-# Libros para Home Schooling
-Aquí podrás encontrar cuadernos de trabajo y libros sin derechos de autor para poder educar a tus hijos fuera del sistema educativo.
-¡Viva la libertad!
 
-Siéntete libre de enviarnos tus libros a librosynubes@gmail.com
 
 <section class="posts">
+<h1>Libros para Home Schooling</h1>
+<p>Aquí podrás encontrar cuadernos de trabajo y libros sin derechos de autor para poder educar a tus hijos fuera del sistema educativo.</p>
+<p>¡Viva la libertad!</p>
+
+<p>Siéntete libre de enviarnos tus libros a librosynubes@gmail.com</p>
 <ul>
 {% for post in site.posts %}
 <li><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a><time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%m-%d-%Y" }}</time></li>
