@@ -3,26 +3,7 @@ layout: page
 title: Nosotros
 ---
 
-Sidey is a simple and minimalistic jekyll blogging theme.
+Simplemente somos un repositorio de material para educadores. Creemos en la libertad de los padres para educar a sus hijos fuera del control del estado.
+Siéntete libre de enviarnos tu material para que lo colguemos escrbiéndonos a librosynubes@gmail.com
 
-### Features
-
-- Responsive design
-- Inline CSS
-- Anchor headings
-- Search
-- Tags & tag pages
-- Security headers (for Netlify hosting)
-- 404 page
-- Compressed CSS and HTML
-- 100/100 score on Lighthouse, Page Speed Insights & Webpagetest
-- Robots.txt
-- Atom & Json feeds
-- Sass
-- Seo optimized (Twitter cards, Facebook Open Graph, Schema.org)
-- Ultra fast (Only ~5kb of CSS)
-- Sidebar navigation
-
-### Screenshot
-
-![Screenshot](screenshot.png)
+¡A trabajar!
